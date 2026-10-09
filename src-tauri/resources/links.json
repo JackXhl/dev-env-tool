@@ -1,0 +1,26 @@
+{
+  "jdk21": {
+    "download": "https://adoptium.net/temurin/releases/?version=21",
+    "tutorial": "https://blog.csdn.net/lf5566fl/article/details/166794914"
+  },
+  "maven": {
+    "download": "https://maven.apache.org/download.cgi",
+    "tutorial": "https://blog.csdn.net/lf5566fl/article/details/166795600"
+  },
+  "mysql": {
+    "download": "https://dev.mysql.com/downloads/mysql/",
+    "tutorial": "https://blog.csdn.net/lf5566fl/article/details/121190169"
+  },
+  "redisWindows": {
+    "download": "https://github.com/tporadowski/redis/releases",
+    "tutorial": "https://blog.csdn.net/lf5566fl/article/details/166796248"
+  },
+  "nginx": {
+    "download": "https://nginx.org/en/download.html",
+    "tutorial": "https://blog.csdn.net/lf5566fl/article/details/167375648"
+  },
+  "nvm": {
+    "download": "https://github.com/coreybutler/nvm-windows/releases",
+    "tutorial": "https://blog.csdn.net/lf5566fl/article/details/167285466"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "common": [
+    "D:\\tools",
+    "C:\\tools",
+    "D:\\develop",
+    "C:\\develop"
+  ],
+  "jdkVendorDirs": [
+    "C:\\Program Files\\Java",
+    "C:\\Program Files\\Eclipse Adoptium",
+    "C:\\Program Files\\Eclipse Foundation",
+    "C:\\Program Files\\Amazon Corretto",
+    "C:\\Program Files\\Zulu",
+    "C:\\Program Files\\BellSoft",
+    "C:\\Program Files (x86)\\Java"
+  ],
+  "jdkParentDirs": [
+    "C:\\Program Files\\Microsoft"
+  ],
+  "jdkNameHas": ["jdk", "java", "temurin", "corretto", "zulu", "semeru"],
+  "mavenVendorDirs": [
+    "C:\\Program Files\\Apache",
+    "C:\\Program Files\\Apache Software Foundation",
+    "C:\\apache-maven"
+  ],
+  "mavenNameHas": ["maven", "mvn"],
+  "nvmHomes": [
+    "D:\\tools\\nvm",
+    "C:\\tools\\nvm",
+    "C:\\Program Files\\nvm"
+  ],
+  "mysqlVendorDirs": [
+    "C:\\Program Files\\MySQL",
+    "C:\\Program Files (x86)\\MySQL",
+    "C:\\Program Files\\MariaDB",
+    "C:\\xampp\\mysql\\bin",
+    "C:\\phpstudy_pro\\Extensions\\MySQL",
+    "C:\\phpstudy\\Extensions\\MySQL"
+  ],
+  "mysqlNameHas": ["mysql", "mariadb"],
+  "nginxExes": [
+    "C:\\nginx\\nginx.exe",
+    "C:\\Program Files\\nginx\\nginx.exe",
+    "C:\\Program Files (x86)\\nginx\\nginx.exe"
+  ],
+  "nginxWalkDirs": [
+    "C:\\nginx",
+    "C:\\Program Files\\nginx"
+  ],
+  "nginxNameHas": ["nginx"],
+  "redisExes": [
+    "C:\\Program Files\\Redis\\redis-server.exe",
+    "C:\\Program Files\\Memurai\\memurai.exe",
+    "C:\\Redis\\redis-server.exe"
+  ],
+  "redisWalkDirs": [
+    "C:\\Program Files\\Redis",
+    "C:\\Redis"
+  ],
+  "redisNameHas": ["redis"]
+}

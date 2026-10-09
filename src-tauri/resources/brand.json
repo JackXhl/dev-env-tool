@@ -1,0 +1,7 @@
+{
+  "penName": "项目环境探查",
+  "repo": "https://github.com/JackXhl/dev-env-tool",
+  "github": "https://github.com/JackXhl",
+  "qq": "761194601",
+  "about": "在本机探查 Spring Boot 常用开发环境（JDK、Maven、MySQL、Redis、Nginx，以及 nvm / Node / pnpm）。扫描只在本地进行，不会上传任何数据。未安装时可打开安装教程和官方下载页。"
+}
