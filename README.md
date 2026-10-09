@@ -25,7 +25,7 @@ Windows 上用的小工具：在**本机**查看 Spring Boot 常用开发环境�
 
 ## 安装
 
-仅支持 **Windows**。从 [GitHub Release](https://github.com/JackXhl/dev-env-tool/releases) 下载安装包，按向导安装后打开「项目环境探查」。安装后的可执行文件是 `env-probe.exe`。
+仅支持 **Windows**。从 [GitHub Release](https://github.com/JackXhl/dev-env-tool/releases) 下载 `dev-env-tool-0.1.0-x64-setup.exe`，按向导安装后打开「项目环境探查」。安装后的可执行文件是 `env-probe.exe`。
 
 ## 从源码构建
 
